@@ -1,7 +1,7 @@
 # Nixie Clock with Single Tube
 Big thanks to <a href="https://www.daliborfarny.com/">Dalibor Farny</a> for sharing desing files for his <a href="https://www.daliborfarny.com/product/blub-clock/">Blub Clock</a> case.
 
-Time can be set using my <a href="https://github.com/StavJi/Nixie_Clock_SW">app</a> or via AT commands interface. To list all possible commands use ```AT$HELP?``` and you will get (communication setting is 115200 bps, 8 data bits, no parity and 1 stop bit):
+Time can be set using my <a href="https://github.com/StavJi/Nixie_Clock_SW">app</a> or via AT command interface with following UART setting 115200 bps, 8 data bits, no parity and 1 stop bit. To list all possible commands use ```AT$HELP?``` and you will get:
 
 ```
 1. $HELP:Available commands:
