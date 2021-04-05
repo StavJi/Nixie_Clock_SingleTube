@@ -22,8 +22,6 @@ Time can be set using my <a href="https://github.com/StavJi/Nixie_Clock_SW">app<
 </p>
 
 ## TODO
-- Add gerbers
-- Add TOP and BOT assembly
-- Add bluetooth support
+- Add bluetooth driver
 - Use Zephyr OS
 - Create mobile APP
